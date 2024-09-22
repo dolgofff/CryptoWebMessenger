@@ -1,6 +1,6 @@
 # CryptoWebMessenger | 3rd year course project in Moscow Aviation Institute
 
-# Messenger Application
+# Messenger Application ✨🤬❤️‍🩹
 
 ## Overview
 
